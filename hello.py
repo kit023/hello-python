@@ -1,3 +1,3 @@
 print("Hello,World!")
-print("I am Kit")
-print("10")
+print("My name is {}. I am {} y/o."\
+ .format("Kit",17))
